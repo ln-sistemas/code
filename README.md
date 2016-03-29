@@ -1,4 +1,12 @@
-- Leia-me
+Leia-me Veersion 0.1.1
+/code-education/info.php - Corrigido info do php
+/funcionalidade1.txt - corrigido erros ortográficos
+/idades.java - Alterado nome de classe que estava causando bug's
+
+A versão 0.1.1 é totalmente compatível com a versão 0.0.1, apenas alguns bugs foram corrigidos. Para mais informações entre em contato suporte@nohaveproblem.net
+
+
+- Leia-me Version 0.0.1 
 
 - Estudando git e github pela CODE EDUCATION
 
